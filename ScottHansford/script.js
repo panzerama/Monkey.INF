@@ -44,7 +44,7 @@ function parallaxScroll(evt) {
 
 // ------------- SET TIMEOUT TO TEMPORARILY "LOCK" SLIDES ------------- //
 function slideDurationTimeout(slideDuration) {
-  setTimeout(function() {
+  setTimeout(function () {
     ticking = false;
   }, slideDuration);
 }
