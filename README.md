@@ -14,7 +14,6 @@ Our problem is that any given monkey may produce gibberish. In fact, most monkey
 
 Put another way, we track the work that each monkey is doing on the same file, from the same starting point, and then decide which final version we will keep. Git does precisely that.
 
-**Understanding Git**
+## Using this project
 
-### How to use this project
-Each section of this guide corresponds to a branch in the Git repo.
+Coming soon...
