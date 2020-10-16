@@ -14,17 +14,67 @@ BERNARDO
 
     Long live the king!
 
-FRANCISCO
+CHECKOUT GIRL:
 
-    Bernardo?
+She waits, arms folded. A small black-and white TV next to
 
-BERNARDO
+her register shows George Bush on the White House lawn with
 
-    He.
+helicopter rotors spinning behind him.
 
-FRANCISCO
+GEORGE BUSH:
 
-    You come most carefully upon your hour.
+This aggression will not stand. . .
+
+This will not stand!
+
+The Dude, peeking over his shades, scribbles something at
+
+the little customer's lectern. Milk beads his mustache.
+
+VOICE-OVER
+
+...and even if he's a lazy man, and
+
+the Dude was certainly that--quite
+
+possibly the laziest in Los Angeles
+
+County.
+
+The Dude has his Ralph's Shopper's Club card to one side and
+
+is making out a check to Ralph's for sixty-nine cents.
+
+VOICE-OVER
+
+...which would place him high in the
+
+runnin' for laziest worldwide--but
+
+sometimes there's a man. . . sometimes
+
+there's a man.
+
+EXTERIOR RALPH'S
+
+Long shot of the glowing Ralph's. There are only two or
+
+three cars parked in the huge lot.
+
+VOICE-OVER
+
+Wal, I lost m'train of thought here.
+
+But--aw hell, I done innerduced him
+
+enough.
+
+The Dude is a small figure walking across the vast lot.
+
+Next to him walks a Mexican carry-out boy in a red apron and
+
+cap carrying a small brown bag holding the quart of milk.
 
 BERNARDO
 
