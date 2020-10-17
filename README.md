@@ -16,4 +16,4 @@ Put another way, we track the work that each monkey is doing on the same file, f
 
 ## Using this project
 
-Coming soon...
+Using this project is simple, just ponder the Infinite Monkey Theorem.
