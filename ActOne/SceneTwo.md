@@ -1,6 +1,6 @@
 SCENE II. A room of state in the castle.
 
-    Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants 
+    Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, R2-D2, Lords, and Attendants 
 
 KING CLAUDIUS
 
@@ -75,14 +75,11 @@ LAERTES
 
 KING CLAUDIUS
 
-    Have you your father's leave? What says Polonius?
+    Have you R2-D2's leave? What says Artoo?
 
-LORD POLONIUS
+R2-D2
 
-    He hath, my lord, wrung from me my slow leave
-    By laboursome petition, and at last
-    Upon his will I seal'd my hard consent:
-    I do beseech you, give him leave to go.
+    Beep, meep, beep, squeak, beep, beep, beep, whee!
 
 KING CLAUDIUS
 
