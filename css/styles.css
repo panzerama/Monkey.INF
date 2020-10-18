@@ -1,0 +1,149 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body {
+    font-family: sans-serif;
+    background-image:url(../images/species-coral.webp);
+}
+
+
+#wrapper{
+    width:940px;
+    margin:20px auto;
+    background:#F0DDCD;
+    padding:20px;
+}
+
+header{
+margin-bottom:10px;
+padding:10px; 
+width:25%;
+background-color:white;
+}
+
+/* Remove margins and padding from the list, and add a black background color */
+#primary {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #072359;
+
+}
+
+/* Change background color of navigation on selected page */
+    #primary li a.selected {
+        		background-color: #ccc;
+        		color:#000;
+   	 }
+
+/* Float the list items side by side */
+#primary li {
+    float: left;
+    margin-right:60px;
+
+}
+
+/* Style the links inside the list items */
+#primary li a {
+    display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 18px;
+}
+
+/* Change background color of links on hover */
+#primary li a:hover {
+    background-color: #4184BF
+}
+
+
+main{
+    width:580px;
+    text-align: center;
+    margin-left: 15%;
+    margin-top:10px;
+}
+
+
+
+ul{
+  margin-left:20px;  
+}
+
+aside li{
+    font-size:1.12em;
+    font-family:"Times New Roman",times, serif;
+    color:#410909;
+}
+
+p{
+    margin-bottom:8px;
+    /* to separate the paragarph from paragraph*/
+    line-height:1.4;
+    /* to separate the line to line*/
+    font-size:1.1em;
+} 
+
+
+h1{
+    font-size:2.4em;
+    margin-bottom:8px;
+    /* to separate the headline from other headline*/
+    color:#01B5E0;
+    font-family:"Times New Roman",times, serif;   
+}
+
+
+h2 {
+    font-size:1.8em;  
+    text-align:center;
+    padding-bottom:12px;
+    color:blue;
+    font-family:"Times New Roman",times, serif;
+}
+
+h4{
+    font-size:1.5em;
+}
+
+#bullet{
+    list-style-type:none;
+    
+}
+
+.the-link{
+    color:blue;
+    font-size:1.2em;
+}
+
+img.hamlet{
+    margin-bottom: 5px;
+}
+
+
+footer{
+    height:50px;
+    line-height:50px;
+    background:#000;
+    clear:both;
+    padding-left:15%;
+    margin-top: 10px;
+}
+
+footer li{
+    float:left;
+    list-style-type:none;
+    margin-right:52px;
+    color:#fff;
+}
+
+a{
+    color:#fff;
+    text-decoration:none;
+}
+
