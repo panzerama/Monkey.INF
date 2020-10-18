@@ -1,6 +1,6 @@
 SCENE I. Elsinore. A platform before the castle.
 
-    FRANCISCO at his post. Enter to him BERNARDO 
+    FRANCISCO at his post. Enter to him BERNARDO
 
 BERNARDO
 
@@ -382,7 +382,10 @@ HORATIO
 
 MARCELLUS
 
-    Let's do't, I pray; and I this morning know
+    Let's do it, I pray; and I this morning know
     Where we shall find him most conveniently.
 
     Exeunt
+
+Donald Duck
+    Quack Quack Quack
