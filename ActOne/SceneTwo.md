@@ -1,6 +1,6 @@
 SCENE II. A room of state in the castle.
 
-    Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants 
+    Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants
 
 KING CLAUDIUS
 
@@ -509,4 +509,8 @@ HAMLET
     Till then sit still, my soul: foul deeds will rise,
     Though all the earth o'erwhelm them, to men's eyes.
 
-    Exit
+    Drops mic, does a back flip and kiss the audience sitting at the front row
+
+    Exit through the theater entrance, and gets into the Bat mobile.
+
+    Driving towards the sunset...
