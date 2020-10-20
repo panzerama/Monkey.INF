@@ -98,9 +98,6 @@ KING CLAUDIUS
 
     How is it that the clouds still hang on you?
 
-HAMLET
-
-    Not so, my lord; I am too much i' the sun.
 
 QUEEN GERTRUDE
 
@@ -248,14 +245,6 @@ MARCELLUS
 
     My good lord--
 
-HAMLET
-
-    I am very glad to see you. Good even, sir.
-    But what, in faith, make you from Wittenberg?
-
-HORATIO
-
-    A truant disposition, good my lord.
 
 HAMLET
 

@@ -79,9 +79,6 @@ FRANCISCO
 
     Exit
 
-MARCELLUS
-
-    Holla! Bernardo!
 
 BERNARDO
 
@@ -189,9 +186,6 @@ HORATIO
 
     Exit Ghost
 
-MARCELLUS
-
-    'Tis gone, and will not answer.
 
 BERNARDO
 
