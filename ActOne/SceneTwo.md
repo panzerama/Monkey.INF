@@ -510,3 +510,6 @@ HAMLET
     Though all the earth o'erwhelm them, to men's eyes.
 
     Exit
+
+
+Tech notes: dim lights
