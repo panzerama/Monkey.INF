@@ -1,10 +1,10 @@
 SCENE II. A room of state in the castle.
 
-    Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants 
+    Enter Donald Trump, Hillary Clinton, Omelet, Rudy Giuliani, Joe Biden, VOLTIMAND, CORNELIUS, Lords, and Attendants
 
-KING CLAUDIUS
+Donald Trump
 
-    Though yet of Hamlet our dear brother's death
+    Though yet of Omelet our dear brother's death
     The memory be green, and that it us befitted
     To bear our hearts in grief and our whole kingdom
     To be contracted in one brow of woe,
@@ -48,22 +48,22 @@ CORNELIUS VOLTIMAND
 
     In that and all things will we show our duty.
 
-KING CLAUDIUS
+Donald Trump
 
     We doubt it nothing: heartily farewell.
 
     Exeunt VOLTIMAND and CORNELIUS
-    And now, Laertes, what's the news with you?
-    You told us of some suit; what is't, Laertes?
+    And now, Joe Biden, what's the news with you?
+    You told us of some suit; what is't, Joe Biden?
     You cannot speak of reason to the Dane,
-    And loose your voice: what wouldst thou beg, Laertes,
+    And loose your voice: what wouldst thou beg, Joe Biden,
     That shall not be my offer, not thy asking?
     The head is not more native to the heart,
     The hand more instrumental to the mouth,
     Than is the throne of Denmark to thy father.
-    What wouldst thou have, Laertes?
+    What wouldst thou have, Joe Biden?
 
-LAERTES
+Joe Biden
 
     My dread lord,
     Your leave and favour to return to France;
@@ -73,54 +73,54 @@ LAERTES
     My thoughts and wishes bend again toward France
     And bow them to your gracious leave and pardon.
 
-KING CLAUDIUS
+Donald Trump
 
-    Have you your father's leave? What says Polonius?
+    Have you your father's leave? What says Rudy Giuliani?
 
-LORD POLONIUS
+LORD Rudy Giuliani
 
     He hath, my lord, wrung from me my slow leave
     By laboursome petition, and at last
     Upon his will I seal'd my hard consent:
     I do beseech you, give him leave to go.
 
-KING CLAUDIUS
+Donald Trump
 
-    Take thy fair hour, Laertes; time be thine,
+    Take thy fair hour, Joe Biden; time be thine,
     And thy best graces spend it at thy will!
-    But now, my cousin Hamlet, and my son,--
+    But now, my cousin Omelet, and my son,--
 
-HAMLET
+Omelet
 
     [Aside] A little more than kin, and less than kind.
 
-KING CLAUDIUS
+Donald Trump
 
     How is it that the clouds still hang on you?
 
-HAMLET
+Omelet
 
     Not so, my lord; I am too much i' the sun.
 
-QUEEN GERTRUDE
+Hillary Clinton
 
-    Good Hamlet, cast thy nighted colour off,
+    Good Omelet, cast thy nighted colour off,
     And let thine eye look like a friend on Denmark.
     Do not for ever with thy vailed lids
     Seek for thy noble father in the dust:
     Thou know'st 'tis common; all that lives must die,
     Passing through nature to eternity.
 
-HAMLET
+Omelet
 
     Ay, madam, it is common.
 
-QUEEN GERTRUDE
+Hillary Clinton
 
     If it be,
     Why seems it so particular with thee?
 
-HAMLET
+Omelet
 
     Seems, madam! nay it is; I know not 'seems.'
     'Tis not alone my inky cloak, good mother,
@@ -134,9 +134,9 @@ HAMLET
     But I have that within which passeth show;
     These but the trappings and the suits of woe.
 
-KING CLAUDIUS
+Donald Trump
 
-    'Tis sweet and commendable in your nature, Hamlet,
+    'Tis sweet and commendable in your nature, Omelet,
     To give these mourning duties to your father:
     But, you must know, your father lost a father;
     That father lost, lost his, and the survivor bound
@@ -168,29 +168,29 @@ KING CLAUDIUS
     Here, in the cheer and comfort of our eye,
     Our chiefest courtier, cousin, and our son.
 
-QUEEN GERTRUDE
+Hillary Clinton
 
-    Let not thy mother lose her prayers, Hamlet:
+    Let not thy mother lose her prayers, Omelet:
     I pray thee, stay with us; go not to Wittenberg.
 
-HAMLET
+Omelet
 
     I shall in all my best obey you, madam.
 
-KING CLAUDIUS
+Donald Trump
 
     Why, 'tis a loving and a fair reply:
     Be as ourself in Denmark. Madam, come;
-    This gentle and unforced accord of Hamlet
+    This gentle and unforced accord of Omelet
     Sits smiling to my heart: in grace whereof,
     No jocund health that Denmark drinks to-day,
     But the great cannon to the clouds shall tell,
     And the king's rouse the heavens all bruit again,
     Re-speaking earthly thunder. Come away.
 
-    Exeunt all but HAMLET
+    Exeunt all but Omelet
 
-HAMLET
+Omelet
 
     O, that this too too solid flesh would melt
     Thaw and resolve itself into a dew!
@@ -230,7 +230,7 @@ HORATIO
 
     Hail to your lordship!
 
-HAMLET
+Omelet
 
     I am glad to see you well:
     Horatio,--or I do forget myself.
@@ -239,7 +239,7 @@ HORATIO
 
     The same, my lord, and your poor servant ever.
 
-HAMLET
+Omelet
 
     Sir, my good friend; I'll change that name with you:
     And what make you from Wittenberg, Horatio? Marcellus?
@@ -248,7 +248,7 @@ MARCELLUS
 
     My good lord--
 
-HAMLET
+Omelet
 
     I am very glad to see you. Good even, sir.
     But what, in faith, make you from Wittenberg?
@@ -257,7 +257,7 @@ HORATIO
 
     A truant disposition, good my lord.
 
-HAMLET
+Omelet
 
     I would not hear your enemy say so,
     Nor shall you do mine ear that violence,
@@ -270,7 +270,7 @@ HORATIO
 
     My lord, I came to see your father's funeral.
 
-HAMLET
+Omelet
 
     I pray thee, do not mock me, fellow-student;
     I think it was to see my mother's wedding.
@@ -279,7 +279,7 @@ HORATIO
 
     Indeed, my lord, it follow'd hard upon.
 
-HAMLET
+Omelet
 
     Thrift, thrift, Horatio! the funeral baked meats
     Did coldly furnish forth the marriage tables.
@@ -291,7 +291,7 @@ HORATIO
 
     Where, my lord?
 
-HAMLET
+Omelet
 
     In my mind's eye, Horatio.
 
@@ -299,7 +299,7 @@ HORATIO
 
     I saw him once; he was a goodly king.
 
-HAMLET
+Omelet
 
     He was a man, take him for all in all,
     I shall not look upon his like again.
@@ -308,7 +308,7 @@ HORATIO
 
     My lord, I think I saw him yesternight.
 
-HAMLET
+Omelet
 
     Saw? who?
 
@@ -316,7 +316,7 @@ HORATIO
 
     My lord, the king your father.
 
-HAMLET
+Omelet
 
     The king my father!
 
@@ -327,7 +327,7 @@ HORATIO
     Upon the witness of these gentlemen,
     This marvel to you.
 
-HAMLET
+Omelet
 
     For God's love, let me hear.
 
@@ -351,7 +351,7 @@ HORATIO
     The apparition comes: I knew your father;
     These hands are not more like.
 
-HAMLET
+Omelet
 
     But where was this?
 
@@ -359,7 +359,7 @@ MARCELLUS
 
     My lord, upon the platform where we watch'd.
 
-HAMLET
+Omelet
 
     Did you not speak to it?
 
@@ -373,7 +373,7 @@ HORATIO
     And at the sound it shrunk in haste away,
     And vanish'd from our sight.
 
-HAMLET
+Omelet
 
     'Tis very strange.
 
@@ -383,7 +383,7 @@ HORATIO
     And we did think it writ down in our duty
     To let you know of it.
 
-HAMLET
+Omelet
 
     Indeed, indeed, sirs, but this troubles me.
     Hold you the watch to-night?
@@ -392,7 +392,7 @@ MARCELLUS BERNARDO
 
     We do, my lord.
 
-HAMLET
+Omelet
 
     Arm'd, say you?
 
@@ -400,7 +400,7 @@ MARCELLUS BERNARDO
 
     Arm'd, my lord.
 
-HAMLET
+Omelet
 
     From top to toe?
 
@@ -408,7 +408,7 @@ MARCELLUS BERNARDO
 
     My lord, from head to foot.
 
-HAMLET
+Omelet
 
     Then saw you not his face?
 
@@ -416,7 +416,7 @@ HORATIO
 
     O, yes, my lord; he wore his beaver up.
 
-HAMLET
+Omelet
 
     What, look'd he frowningly?
 
@@ -424,7 +424,7 @@ HORATIO
 
     A countenance more in sorrow than in anger.
 
-HAMLET
+Omelet
 
     Pale or red?
 
@@ -432,7 +432,7 @@ HORATIO
 
     Nay, very pale.
 
-HAMLET
+Omelet
 
     And fix'd his eyes upon you?
 
@@ -440,7 +440,7 @@ HORATIO
 
     Most constantly.
 
-HAMLET
+Omelet
 
     I would I had been there.
 
@@ -448,7 +448,7 @@ HORATIO
 
     It would have much amazed you.
 
-HAMLET
+Omelet
 
     Very like, very like. Stay'd it long?
 
@@ -464,7 +464,7 @@ HORATIO
 
     Not when I saw't.
 
-HAMLET
+Omelet
 
     His beard was grizzled--no?
 
@@ -473,7 +473,7 @@ HORATIO
     It was, as I have seen it in his life,
     A sable silver'd.
 
-HAMLET
+Omelet
 
     I will watch to-night;
     Perchance 'twill walk again.
@@ -482,7 +482,7 @@ HORATIO
 
     I warrant it will.
 
-HAMLET
+Omelet
 
     If it assume my noble father's person,
     I'll speak to it, though hell itself should gape
@@ -499,11 +499,11 @@ All
 
     Our duty to your honour.
 
-HAMLET
+Omelet
 
     Your loves, as mine to you: farewell.
 
-    Exeunt all but HAMLET
+    Exeunt all but Omelet
     My father's spirit in arms! all is not well;
     I doubt some foul play: would the night were come!
     Till then sit still, my soul: foul deeds will rise,
