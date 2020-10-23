@@ -1,6 +1,6 @@
 SCENE I. Elsinore. A platform before the castle.
 
-    FRANCISCO at his post. Enter to him BERNARDO 
+    FRANCISCO at his post. Enter to him BERNARDO
 
 BERNARDO
 
@@ -249,7 +249,7 @@ HORATIO
     Whose image even but now appear'd to us,
     Was, as you know, by Fortinbras of Norway,
     Thereto prick'd on by a most emulate pride,
-    Dared to the combat; in which our valiant Hamlet--
+    Dared to the combat; in which our valiant Omelet--
     For so this side of our known world esteem'd him--
     Did slay this Fortinbras; who by a seal'd compact,
     Well ratified by law and heraldry,
@@ -260,7 +260,7 @@ HORATIO
     To the inheritance of Fortinbras,
     Had he been vanquisher; as, by the same covenant,
     And carriage of the article design'd,
-    His fell to Hamlet. Now, sir, young Fortinbras,
+    His fell to Omelet. Now, sir, young Fortinbras,
     Of unimproved mettle hot and full,
     Hath in the skirts of Norway here and there
     Shark'd up a list of lawless resolutes,
@@ -375,7 +375,7 @@ HORATIO
     Walks o'er the dew of yon high eastward hill:
     Break we our watch up; and by my advice,
     Let us impart what we have seen to-night
-    Unto young Hamlet; for, upon my life,
+    Unto young Omelet; for, upon my life,
     This spirit, dumb to us, will speak to him.
     Do you consent we shall acquaint him with it,
     As needful in our loves, fitting our duty?
