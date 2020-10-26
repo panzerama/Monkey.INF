@@ -1,4 +1,8 @@
 # Monkeys.INF
+
+**David Nguyen Changes**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis tincidunt ante, sed congue lorem. Sed luctus faucibus urna, eu tincidunt nisi dapibus eget. Maecenas quis arcu egestas, facilisis nisl vitae, bibendum nunc. Nam sodales luctus enim, vel ultrices tortor bibendum id. Suspendisse egestas nunc nisl, pulvinar elementum nisi tempus non. Etiam mollis feugiat lacus vitae luctus. Nullam id urna elit. Ut ac lacus in turpis dignissim vulputate et in nulla. Nam tincidunt ullamcorper magna, id euismod nisi tincidunt ut. Quisque pellentesque orci odio, quis varius nunc porttitor sit amet. Ut dignissim volutpat mattis. Vestibulum tincidunt velit arcu, vel lobortis felis faucibus eget. In sagittis diam arcu, nec cursus diam placerat et.
+
 **A quick primer on Git by really, really silly example**
 This project is intended to help cement basic concepts around Git. It was orginally constructed for use with SRND CodeDay and North Seattle College by Jason Drew Panzer. To illustrate these foundational concepts we use a scenario unrelated to code, since the use of Git to track changes to files isn't necessarily dependent on those files being code.
 
