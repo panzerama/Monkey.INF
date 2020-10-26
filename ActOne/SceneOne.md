@@ -1,112 +1,112 @@
 SCENE I. Elsinore. A platform before the castle.
 
-    FRANCISCO at his post. Enter to him BERNARDO 
+    FRANK at his post. Enter to him BERNIE 
 
-BERNARDO
+BERNIE
 
     Who's there?
 
-FRANCISCO
+FRANK
 
     Nay, answer me: stand, and unfold yourself.
 
-BERNARDO
+BERNIE
 
     Long live the king!
 
-FRANCISCO
+FRANK
 
-    Bernardo?
+    BERNIE?
 
-BERNARDO
+BERNIE
 
     He.
 
-FRANCISCO
+FRANK
 
     You come most carefully upon your hour.
 
-BERNARDO
+BERNIE
 
-    'Tis now struck twelve; get thee to bed, Francisco.
+    'Tis now struck twelve; get thee to bed, FRANK.
 
-FRANCISCO
+FRANK
 
     For this relief much thanks: 'tis bitter cold,
     And I am sick at heart.
 
-BERNARDO
+BERNIE
 
     Have you had quiet guard?
 
-FRANCISCO
+FRANK
 
     Not a mouse stirring.
 
-BERNARDO
+BERNIE
 
     Well, good night.
-    If you do meet Horatio and Marcellus,
+    If you do meet Ray and Mark,
     The rivals of my watch, bid them make haste.
 
-FRANCISCO
+FRANK
 
     I think I hear them. Stand, ho! Who's there?
 
-    Enter HORATIO and MARCELLUS
+    Enter Ray and MARK
 
-HORATIO
+RAY
 
     Friends to this ground.
 
-MARCELLUS
+MARK
 
     And liegemen to the Dane.
 
-FRANCISCO
+FRANK
 
     Give you good night.
 
-MARCELLUS
+MARK
 
     O, farewell, honest soldier:
     Who hath relieved you?
 
-FRANCISCO
+FRANK
 
-    Bernardo has my place.
+    BERNIE has my place.
     Give you good night.
 
     Exit
 
-MARCELLUS
+MARK
 
-    Holla! Bernardo!
+    Holla! Bernie!
 
-BERNARDO
+BERNIE
 
     Say,
-    What, is Horatio there?
+    What, is Ray there?
 
-HORATIO
+RAY
 
     A piece of him.
 
-BERNARDO
+BERNIE
 
-    Welcome, Horatio: welcome, good Marcellus.
+    Welcome, RAY: welcome, good Mark.
 
-MARCELLUS
+MARK
 
     What, has this thing appear'd again to-night?
 
-BERNARDO
+BERNIE
 
     I have seen nothing.
 
-MARCELLUS
+MARK
 
-    Horatio says 'tis but our fantasy,
+    Ray says 'tis but our fantasy,
     And will not let belief take hold of him
     Touching this dreaded sight, twice seen of us:
     Therefore I have entreated him along
@@ -114,102 +114,102 @@ MARCELLUS
     That if again this apparition come,
     He may approve our eyes and speak to it.
 
-HORATIO
+RAY
 
     Tush, tush, 'twill not appear.
 
-BERNARDO
+BERNIE
 
     Sit down awhile;
     And let us once again assail your ears,
     That are so fortified against our story
     What we have two nights seen.
 
-HORATIO
+RAY
 
     Well, sit we down,
-    And let us hear Bernardo speak of this.
+    And let us hear BERNIE speak of this.
 
-BERNARDO
+BERNIE
 
     Last night of all,
     When yond same star that's westward from the pole
     Had made his course to illume that part of heaven
-    Where now it burns, Marcellus and myself,
+    Where now it burns, MARK and myself,
     The bell then beating one,--
 
     Enter Ghost
 
-MARCELLUS
+MARK
 
     Peace, break thee off; look, where it comes again!
 
-BERNARDO
+BERNIE
 
     In the same figure, like the king that's dead.
 
-MARCELLUS
+MARK
 
-    Thou art a scholar; speak to it, Horatio.
+    Thou art a scholar; speak to it, RAY.
 
-BERNARDO
+BERNIE
 
-    Looks it not like the king? mark it, Horatio.
+    Looks it not like the king? mark it, RAY.
 
-HORATIO
+RAY
 
     Most like: it harrows me with fear and wonder.
 
-BERNARDO
+BERNIE
 
     It would be spoke to.
 
-MARCELLUS
+MARK
 
-    Question it, Horatio.
+    Question it, RAY.
 
-HORATIO
+RAY
 
     What art thou that usurp'st this time of night,
     Together with that fair and warlike form
     In which the majesty of buried Denmark
     Did sometimes march? by heaven I charge thee, speak!
 
-MARCELLUS
+MARK
 
     It is offended.
 
-BERNARDO
+BERNIE
 
     See, it stalks away!
 
-HORATIO
+RAY
 
     Stay! speak, speak! I charge thee, speak!
 
     Exit Ghost
 
-MARCELLUS
+MARK
 
     'Tis gone, and will not answer.
 
-BERNARDO
+BERNIE
 
-    How now, Horatio! you tremble and look pale:
+    How now, RAY! you tremble and look pale:
     Is not this something more than fantasy?
     What think you on't?
 
-HORATIO
+RAY
 
     Before my God, I might not this believe
     Without the sensible and true avouch
     Of mine own eyes.
 
-MARCELLUS
+MARK
 
     Is it not like the king?
 
-HORATIO
+RAY
 
     As thou art to thyself:
     Such was the very armour he had on
@@ -218,18 +218,18 @@ HORATIO
     He smote the sledded Polacks on the ice.
     'Tis strange.
 
-MARCELLUS
+MARK
 
     Thus twice before, and jump at this dead hour,
     With martial stalk hath he gone by our watch.
 
-HORATIO
+RAY
 
     In what particular thought to work I know not;
     But in the gross and scope of my opinion,
     This bodes some strange eruption to our state.
 
-MARCELLUS
+MARK
 
     Good now, sit down, and tell me, he that knows,
     Why this same strict and most observant watch
@@ -242,7 +242,7 @@ MARCELLUS
     Doth make the night joint-labourer with the day:
     Who is't that can inform me?
 
-HORATIO
+RAY
 
     That can I;
     At least, the whisper goes so. Our last king,
@@ -274,14 +274,14 @@ HORATIO
     The source of this our watch and the chief head
     Of this post-haste and romage in the land.
 
-BERNARDO
+BERNIE
 
     I think it be no other but e'en so:
     Well may it sort that this portentous figure
     Comes armed through our watch; so like the king
     That was and is the question of these wars.
 
-HORATIO
+RAY
 
     A mote it is to trouble the mind's eye.
     In the most high and palmy state of Rome,
@@ -313,25 +313,25 @@ HORATIO
     Or if thou hast uphoarded in thy life
     Extorted treasure in the womb of earth,
     For which, they say, you spirits oft walk in death,
-    Speak of it: stay, and speak! Stop it, Marcellus.
+    Speak of it: stay, and speak! Stop it, MARK.
 
-MARCELLUS
+MARK
 
     Shall I strike at it with my partisan?
 
-HORATIO
+RAY
 
     Do, if it will not stand.
 
-BERNARDO
+BERNIE
 
     'Tis here!
 
-HORATIO
+RAY
 
     'Tis here!
 
-MARCELLUS
+MARK
 
     'Tis gone!
 
@@ -341,11 +341,11 @@ MARCELLUS
     For it is, as the air, invulnerable,
     And our vain blows malicious mockery.
 
-BERNARDO
+BERNIE
 
     It was about to speak, when the cock crew.
 
-HORATIO
+RAY
 
     And then it started like a guilty thing
     Upon a fearful summons. I have heard,
@@ -357,7 +357,7 @@ HORATIO
     To his confine: and of the truth herein
     This present object made probation.
 
-MARCELLUS
+MARK
 
     It faded on the crowing of the cock.
     Some say that ever 'gainst that season comes
@@ -368,7 +368,7 @@ MARCELLUS
     No fairy takes, nor witch hath power to charm,
     So hallow'd and so gracious is the time.
 
-HORATIO
+RAY
 
     So have I heard and do in part believe it.
     But, look, the morn, in russet mantle clad,
@@ -380,7 +380,7 @@ HORATIO
     Do you consent we shall acquaint him with it,
     As needful in our loves, fitting our duty?
 
-MARCELLUS
+MARK
 
     Let's do't, I pray; and I this morning know
     Where we shall find him most conveniently.
