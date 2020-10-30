@@ -16,4 +16,4 @@ Put another way, we track the work that each monkey is doing on the same file, f
 
 ## Using this project
 
-Coming soon...
+Coming soon... to a theater near you.
