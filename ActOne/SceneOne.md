@@ -25,6 +25,7 @@ BERNARDO
 FRANCISCO
 
     You come most carefully upon your hour.
+    ***Say this very dramatically!
 
 BERNARDO
 
