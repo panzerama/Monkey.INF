@@ -1,3 +1,5 @@
+<!-- From Shakespeares "A Midsummer Nights Dream" -->
+
 Scene III Athens. The palace of THESEUS
 Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and ATTENDANTS
 THESEUS. Now, fair Hippolyta, our nuptial hour
