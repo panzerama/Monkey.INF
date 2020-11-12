@@ -1,3 +1,4 @@
+Changes made to this file ignoring the drop down menu options. They're kinda wild.
 SCENE II. A room of state in the castle.
 
     Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants 
