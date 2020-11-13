@@ -98,7 +98,7 @@ BERNARDO
 
 MARCELLUS
 
-    What, has this thing appear'd again to-night?
+    What, has this thing appeared again to-night?
 
 BERNARDO
 
@@ -120,7 +120,7 @@ HORATIO
 
 BERNARDO
 
-    Sit down awhile;
+    Sit down a while;
     And let us once again assail your ears,
     That are so fortified against our story
     What we have two nights seen.

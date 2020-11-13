@@ -366,7 +366,7 @@ HAMLET
 HORATIO
 
     My lord, I did;
-    But answer made it none: yet once methought
+    But answer made it none: yet once me thought
     It lifted up its head and did address
     Itself to motion, like as it would speak;
     But even then the morning cock crew loud,
@@ -375,7 +375,7 @@ HORATIO
 
 HAMLET
 
-    'Tis very strange.
+    It's very strange.
 
 HORATIO
 
