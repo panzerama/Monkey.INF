@@ -21,3 +21,5 @@ In time so long ago begins our play,
 In star-crossed galaxy far, far away.
 
 EXIT Chorus.
+
+And maybe just a little more cowbell at the end

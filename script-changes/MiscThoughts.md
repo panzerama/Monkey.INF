@@ -12,3 +12,9 @@ the void that get's one's spirits roused!
 
 Fantasy has been played out.  More space stuffs!
 
+It has long been said that, there will not only be stations in space
+
+but hear me out, wars!! amongst the stars... There will be...
+
+S T A R      W A R S              *tips hat with pride about joke. 
+
