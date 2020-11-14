@@ -49,20 +49,20 @@ FRANK
 BERNIE
 
     Well, good night.
-    If you do meet Horatio and Marcellus,
+    If you do meet Harry and Mark,
     The rivals of my watch, bid them make haste.
 
 FRANK
 
     I think I hear them. Stand, ho! Who's there?
 
-    Enter HORATIO and MARCELLUS
+    Enter Harry and Mark
 
-HORATIO
+HOR
 
     Friends to this ground.
 
-MARCELLUS
+Mark
 
     And liegemen to the Dane.
 
@@ -70,7 +70,7 @@ FRANK
 
     Give you good night.
 
-MARCELLUS
+Mark
 
     O, farewell, honest soldier:
     Who hath relieved you?
@@ -82,24 +82,24 @@ FRANK
 
     Exit
 
-MARCELLUS
+Mark
 
     Holla! BERNIE!
 
 BERNIE
 
     Say,
-    What, is Horatio there?
+    What, is Harry there?
 
-HORATIO
+Harry
 
     A piece of him.
 
 BERNIE
 
-    Welcome, Horatio: welcome, good Marcellus.
+    Welcome, Harry: welcome, good Mark.
 
-MARCELLUS
+Mark
 
     What, has this thing appear'd again to-night?
 
@@ -107,9 +107,9 @@ BERNIE
 
     I have seen nothing.
 
-MARCELLUS
+Mark
 
-    Horatio says 'tis but our fantasy,
+    Harry says 'tis but our fantasy,
     And will not let belief take hold of him
     Touching this dreaded sight, twice seen of us:
     Therefore I have entreated him along
@@ -117,7 +117,7 @@ MARCELLUS
     That if again this apparition come,
     He may approve our eyes and speak to it.
 
-HORATIO
+Harry
 
     Tush, tush, 'twill not appear.
 
@@ -128,7 +128,7 @@ BERNIE
     That are so fortified against our story
     What we have two nights seen.
 
-HORATIO
+Harry
 
     Well, sit we down,
     And let us hear BERNIE speak of this.
@@ -138,12 +138,12 @@ BERNIE
     Last night of all,
     When yond same star that's westward from the pole
     Had made his course to illume that part of heaven
-    Where now it burns, Marcellus and myself,
+    Where now it burns, Mark and myself,
     The bell then beating one,--
 
     Enter Ghost
 
-MARCELLUS
+Mark
 
     Peace, break thee off; look, where it comes again!
 
@@ -151,15 +151,15 @@ BERNIE
 
     In the same figure, like the king that's dead.
 
-MARCELLUS
+Mark
 
-    Thou art a scholar; speak to it, Horatio.
+    Thou art a scholar; speak to it, Harry.
 
 BERNIE
 
-    Looks it not like the king? mark it, Horatio.
+    Looks it not like the king? mark it, Harry.
 
-HORATIO
+Harry
 
     Most like: it harrows me with fear and wonder.
 
@@ -167,18 +167,18 @@ BERNIE
 
     It would be spoke to.
 
-MARCELLUS
+Mark
 
-    Question it, Horatio.
+    Question it, Harry.
 
-HORATIO
+Harry
 
     What art thou that usurp'st this time of night,
     Together with that fair and warlike form
     In which the majesty of buried Denmark
     Did sometimes march? by heaven I charge thee, speak!
 
-MARCELLUS
+Mark
 
     It is offended.
 
@@ -186,33 +186,33 @@ BERNIE
 
     See, it stalks away!
 
-HORATIO
+Harry
 
     Stay! speak, speak! I charge thee, speak!
 
     Exit Ghost
 
-MARCELLUS
+Mark
 
     'Tis gone, and will not answer.
 
 BERNIE
 
-    How now, Horatio! you tremble and look pale:
+    How now, Harry! you tremble and look pale:
     Is not this something more than fantasy?
     What think you on't?
 
-HORATIO
+Harry
 
     Before my God, I might not this believe
     Without the sensible and true avouch
     Of mine own eyes.
 
-MARCELLUS
+Mark
 
     Is it not like the king?
 
-HORATIO
+Harry
 
     As thou art to thyself:
     Such was the very armour he had on
@@ -221,18 +221,18 @@ HORATIO
     He smote the sledded Polacks on the ice.
     'Tis strange.
 
-MARCELLUS
+Mark
 
     Thus twice before, and jump at this dead hour,
     With martial stalk hath he gone by our watch.
 
-HORATIO
+Harry
 
     In what particular thought to work I know not;
     But in the gross and scope of my opinion,
     This bodes some strange eruption to our state.
 
-MARCELLUS
+Mark
 
     Good now, sit down, and tell me, he that knows,
     Why this same strict and most observant watch
@@ -245,7 +245,7 @@ MARCELLUS
     Doth make the night joint-labourer with the day:
     Who is't that can inform me?
 
-HORATIO
+Harry
 
     That can I;
     At least, the whisper goes so. Our last king,
@@ -284,7 +284,7 @@ BERNIE
     Comes armed through our watch; so like the king
     That was and is the question of these wars.
 
-HORATIO
+Harry
 
     A mote it is to trouble the mind's eye.
     In the most high and palmy state of Rome,
@@ -316,13 +316,13 @@ HORATIO
     Or if thou hast uphoarded in thy life
     Extorted treasure in the womb of earth,
     For which, they say, you spirits oft walk in death,
-    Speak of it: stay, and speak! Stop it, Marcellus.
+    Speak of it: stay, and speak! Stop it, Mark.
 
-MARCELLUS
+Mark
 
     Shall I strike at it with my partisan?
 
-HORATIO
+Harry
 
     Do, if it will not stand.
 
@@ -330,11 +330,11 @@ BERNIE
 
     'Tis here!
 
-HORATIO
+Harry
 
     'Tis here!
 
-MARCELLUS
+Mark
 
     'Tis gone!
 
@@ -348,7 +348,7 @@ BERNIE
 
     It was about to speak, when the cock crew.
 
-HORATIO
+Harry
 
     And then it started like a guilty thing
     Upon a fearful summons. I have heard,
@@ -360,7 +360,7 @@ HORATIO
     To his confine: and of the truth herein
     This present object made probation.
 
-MARCELLUS
+Mark
 
     It faded on the crowing of the cock.
     Some say that ever 'gainst that season comes
@@ -371,7 +371,7 @@ MARCELLUS
     No fairy takes, nor witch hath power to charm,
     So hallow'd and so gracious is the time.
 
-HORATIO
+Harry
 
     So have I heard and do in part believe it.
     But, look, the morn, in russet mantle clad,
@@ -383,7 +383,7 @@ HORATIO
     Do you consent we shall acquaint him with it,
     As needful in our loves, fitting our duty?
 
-MARCELLUS
+Mark
 
     Let's do't, I pray; and I this morning know
     Where we shall find him most conveniently.
