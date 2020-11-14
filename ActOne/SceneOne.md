@@ -9,6 +9,7 @@ BERNARDO
 FRANCISCO
 
     Nay, answer me: stand, and unfold yourself.
+    Modern - (No, answer me! Stand and Show Yourself!!)
 
 BERNARDO
 
@@ -21,10 +22,12 @@ FRANCISCO
 BERNARDO
 
     He.
+    Modern - (Yeah)
 
 FRANCISCO
 
     You come most carefully upon your hour.
+    Mondern - (Why are you here THIS hour)
 
 BERNARDO
 
