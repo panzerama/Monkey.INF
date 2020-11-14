@@ -1,58 +1,58 @@
 SCENE I. Elsinore. A platform before the castle.
 
-    FRANCISCO at his post. Enter to him BERNARDO 
+    FRANK at his post. Enter to him BERNIE 
 
-BERNARDO
+BERNIE
 
     Who's there?
 
-FRANCISCO
+FRANK
 
     Nay, answer me: stand, and unfold yourself.
     Modern - (No, answer me! Stand and Show Yourself!!)
 
-BERNARDO
+BERNIE
 
     Long live the king!
 
-FRANCISCO
+FRANK
 
-    Bernardo?
+    BERNIE?
 
-BERNARDO
+BERNIE
 
     He.
     Modern - (Yeah)
 
-FRANCISCO
+FRANK
 
     You come most carefully upon your hour.
     Mondern - (Why are you here THIS hour)
 
-BERNARDO
+BERNIE
 
-    'Tis now struck twelve; get thee to bed, Francisco.
+    'Tis now struck twelve; get thee to bed, FRANK.
 
-FRANCISCO
+FRANK
 
     For this relief much thanks: 'tis bitter cold,
     And I am sick at heart.
 
-BERNARDO
+BERNIE
 
     Have you had quiet guard?
 
-FRANCISCO
+FRANK
 
     Not a mouse stirring.
 
-BERNARDO
+BERNIE
 
     Well, good night.
     If you do meet Horatio and Marcellus,
     The rivals of my watch, bid them make haste.
 
-FRANCISCO
+FRANK
 
     I think I hear them. Stand, ho! Who's there?
 
@@ -66,7 +66,7 @@ MARCELLUS
 
     And liegemen to the Dane.
 
-FRANCISCO
+FRANK
 
     Give you good night.
 
@@ -75,18 +75,18 @@ MARCELLUS
     O, farewell, honest soldier:
     Who hath relieved you?
 
-FRANCISCO
+FRANK
 
-    Bernardo has my place.
+    BERNIE has my place.
     Give you good night.
 
     Exit
 
 MARCELLUS
 
-    Holla! Bernardo!
+    Holla! BERNIE!
 
-BERNARDO
+BERNIE
 
     Say,
     What, is Horatio there?
@@ -95,7 +95,7 @@ HORATIO
 
     A piece of him.
 
-BERNARDO
+BERNIE
 
     Welcome, Horatio: welcome, good Marcellus.
 
@@ -103,7 +103,7 @@ MARCELLUS
 
     What, has this thing appear'd again to-night?
 
-BERNARDO
+BERNIE
 
     I have seen nothing.
 
@@ -121,7 +121,7 @@ HORATIO
 
     Tush, tush, 'twill not appear.
 
-BERNARDO
+BERNIE
 
     Sit down awhile;
     And let us once again assail your ears,
@@ -131,9 +131,9 @@ BERNARDO
 HORATIO
 
     Well, sit we down,
-    And let us hear Bernardo speak of this.
+    And let us hear BERNIE speak of this.
 
-BERNARDO
+BERNIE
 
     Last night of all,
     When yond same star that's westward from the pole
@@ -147,7 +147,7 @@ MARCELLUS
 
     Peace, break thee off; look, where it comes again!
 
-BERNARDO
+BERNIE
 
     In the same figure, like the king that's dead.
 
@@ -155,7 +155,7 @@ MARCELLUS
 
     Thou art a scholar; speak to it, Horatio.
 
-BERNARDO
+BERNIE
 
     Looks it not like the king? mark it, Horatio.
 
@@ -163,7 +163,7 @@ HORATIO
 
     Most like: it harrows me with fear and wonder.
 
-BERNARDO
+BERNIE
 
     It would be spoke to.
 
@@ -182,7 +182,7 @@ MARCELLUS
 
     It is offended.
 
-BERNARDO
+BERNIE
 
     See, it stalks away!
 
@@ -196,7 +196,7 @@ MARCELLUS
 
     'Tis gone, and will not answer.
 
-BERNARDO
+BERNIE
 
     How now, Horatio! you tremble and look pale:
     Is not this something more than fantasy?
@@ -277,7 +277,7 @@ HORATIO
     The source of this our watch and the chief head
     Of this post-haste and romage in the land.
 
-BERNARDO
+BERNIE
 
     I think it be no other but e'en so:
     Well may it sort that this portentous figure
@@ -326,7 +326,7 @@ HORATIO
 
     Do, if it will not stand.
 
-BERNARDO
+BERNIE
 
     'Tis here!
 
@@ -344,7 +344,7 @@ MARCELLUS
     For it is, as the air, invulnerable,
     And our vain blows malicious mockery.
 
-BERNARDO
+BERNIE
 
     It was about to speak, when the cock crew.
 
