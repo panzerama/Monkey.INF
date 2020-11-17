@@ -2,7 +2,7 @@ SCENE II. A room of state in the castle.
 
     Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, R2-D2, Lords, and Attendants 
 
-KING CLAUDIUS THE THIRD
+KING CLAUDIUS  THIRD
 
     Though yet of Hamlet our dear brother's death
     The memory be green, and that it us befitted
