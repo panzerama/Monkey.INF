@@ -4,7 +4,7 @@ SCENE I. Elsinore. A platform before the castle.
 
 BERNARDO
 
-    Who's there?
+    Who's walking there?
 
 FRANCISCO
 

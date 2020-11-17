@@ -1,6 +1,7 @@
 PROLOGUE
 
 Outer Space.
+Among the Stars.
 
 ENTER Chorus.
 
