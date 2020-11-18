@@ -13,7 +13,3 @@ We don't have an ageless monkey, nor do we have all the time in the universe, so
 Our problem is that any given monkey may produce gibberish. In fact, most monkeys will produce mostly gibberish. As managers we can select which monkey's progress on any given day we use. We could give each monkey a document to work on every day, but then we'd be left with the task of assembling those pages after choosing which text to keep for the day. That sounds tedious, and there's a better way: let's give each monkey the same file and have them all work on it at the same time. At the end of the day, we discard the work from each monkey that failed to match Shakespeare's work and keep any that hit the mark. 
 
 Put another way, we track the work that each monkey is doing on the same file, from the same starting point, and then decide which final version we will keep. Git does precisely that.
-
-## Using this project
-
-Coming soon...
