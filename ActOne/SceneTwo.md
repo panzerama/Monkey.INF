@@ -1,6 +1,6 @@
 SCENE II. A room of state in the castle.
 
-    Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, R2-D2, Lords, and Attendants 
+    Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND, CORNELIUS,R2-D2, Lords, and Attendants 
 
 KING CLAUDIUS
 
@@ -110,7 +110,7 @@ QUEEN GERTRUDE
 
 HAMLET
 
-    Ay, madam, it is common.
+    Yes, mother,, it is common.
 
 QUEEN GERTRUDE
 
@@ -225,7 +225,7 @@ HAMLET
 
 HORATIO
 
-    Hail to your lordship!
+    Hello, sir.
 
 HAMLET
 
@@ -286,7 +286,7 @@ HAMLET
 
 HORATIO
 
-    Where, my lord?
+    Where is R2-D2?
 
 HAMLET
 
