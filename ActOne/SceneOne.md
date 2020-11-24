@@ -120,10 +120,9 @@ HORATIO
 
 BERNARDO
 
-    Sit down awhile;
-    And let us once again assail your ears,
-    That are so fortified against our story
-    What we have two nights seen.
+    Sit down for a while, and we’ll tell you again the
+    story you don’t want to believe, about what
+    we’ve seen two nights now.
 
 HORATIO
 
@@ -201,9 +200,8 @@ BERNARDO
 
 HORATIO
 
-    Before my God, I might not this believe
-    Without the sensible and true avouch
-    Of mine own eyes.
+    I swear to God, if I hadn’t seen this with my own 
+    eyes I’d never believe it.
 
 MARCELLUS
 
@@ -325,15 +323,15 @@ HORATIO
 
 BERNARDO
 
-    'Tis here!
+    'It's here!
 
 HORATIO
 
-    'Tis here!
+    'It's here!
 
 MARCELLUS
 
-    'Tis gone!
+    'It's gone!
 
     Exit Ghost
     We do it wrong, being so majestical,
