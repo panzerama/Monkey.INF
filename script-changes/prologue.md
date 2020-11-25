@@ -1,4 +1,4 @@
-PROLOGUE
+﻿PROLOGUE
 
 Outer Space.
 
@@ -19,5 +19,13 @@ Deliv’ring plans and a new hope they hold:
 Of bringing freedom to the galaxy.
 In time so long ago begins our play,
 In star-crossed galaxy far, far away.
+
+
+
+Inside the Death Star.
+
+Enter LUKE SKYWALKER, holding stormtrooper helmet.
+
+LUKE: Alas, poor stormtrooper, I knew ye not
 
 EXIT Chorus.
