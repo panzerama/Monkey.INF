@@ -12,7 +12,7 @@ FRANCISCO
 
 BERNARDO
 
-    Long live the king!
+    Long live the King!
 
 FRANCISCO
 
@@ -20,7 +20,7 @@ FRANCISCO
 
 BERNARDO
 
-    He.
+    He he he.
 
 FRANCISCO
 
