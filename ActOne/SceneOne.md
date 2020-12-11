@@ -1,26 +1,26 @@
 SCENE I. Elsinore. A platform before the castle.
 
-    FRANCISCO at his post. Enter to him BERNARDO 
+                                         FRANCISCO at his post. Enter to him BERNARDO 
 
 BERNARDO
 
-    Who's there?
+                                       Who's there?
 
 FRANCISCO
 
-    Nay, answer me: stand, and unfold yourself.
+                                       "Nay, answer me: stand, and unfold yourself."
 
 BERNARDO
 
-    Long live the king!
+                                        "Long live the king!"
 
 FRANCISCO
 
-    Bernardo?
+                                        " Bernardo?"
 
 BERNARDO
 
-    He.
+                                         "  He."
 
 FRANCISCO
 
