@@ -1,3 +1,5 @@
+change 1
+
 SCENE I. Elsinore. A platform before the castle.
 
     FRANCISCO at his post. Enter to him BERNARDO 
