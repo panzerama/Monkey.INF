@@ -1,0 +1,8 @@
+Creating a New Branch Using GitHub Desktop App
+Creating a new branch on the GitHub Desktop app is identical to how you’d create on the website.
+
+Make sure you’ve got GitHub's desktop app downloaded before reading further.
+
+Once you’ve got the desktop app open, navigate to the repository in which you want to create a new branch.
+
+Now, click on the branch selector dropdown and click "New Branch" button.

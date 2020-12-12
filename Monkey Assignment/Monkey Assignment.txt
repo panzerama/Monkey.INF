@@ -1,0 +1,10 @@
+How Branches in GitHub and Git Work
+GitHub (and Git) enables you to control which version of the code gets deployed to your production.
+
+And branches play a fundamental role in this.
+
+Every time you deploy code to production, you’ll obviously want to make sure you’re only deploying the most stable version.
+
+But how do you make sure you always have a stable version ready for deploy when you’ve got multiple teammates constantly working on new features and bug fixes?
+
+By creating multiple branches.

@@ -1,0 +1,139 @@
+$ git branch
+      1   dev
+      2 * master
+You can see more information, including which branch another one tracks, using the -vv flag:
+
+$ git branch -vv
+      1   dev d1a9e5b [master] commit comment
+      2 * master d1a9e5b commit comment
+If you try to create a branch before the first commit, you’ll get an error message like:
+
+fatal: Not a valid object name: 'master'.
+If you try to create a branch using a name that already exists, you’ll get an error message like:
+
+fatal: A branch named 'dev' already exists.
+The git branch command creates a new branch pointing to the same commit you’re currently working on. However, your working copy will still be pointing at the master branch. To switch to the new branch you just created, use git checkout:
+
+git checkout dev
+The term checkout might be confusing if you’re used to other version control systems; in Git, checkout refers to switching the currently active branch. Since you’ll usually want to switch to a new branch once it’s created, there’s a shortcut for the whole process:
+
+git checkout -b dev
+That command means “create a new branch called ‘dev’ and switch to it immediately”. It’s the equivalent of:
+
+git branch dev
+git checkout dev
+In fact, you can even use git checkout to create a branch from any other, not just the one that is currently checked out. For example, to create a new branch called another, from the branch named dev:
+
+git checkout -b another dev
+Creating A New Branch Using GitHub Desktop
+Another way to create Git branches on Windows or macOS is using GitHub Desktop, the official graphical user interface (GUI) program provided by GitHub. Using a GUI is perfect for beginners, and those who have nightmares when someone whispers the word Vim.
+
+GitHub Desktop will always show your current branch in the main toolbar:
+
+GitHub Desktop screenshot showing Current Branch button
+Click on that main toolbar button to show details of the repository’s branches, including the option to create a new branch:
+
+GitHub Desktop screenshot showing branch listing dropdown
+Note that, if you start typing a branch name with no matches, GitHub Desktop prompts you to create a new branch and shows the keyboard shortcut to do so—useful if it’s really the kind of thing you find yourself doing a lot:
+
+GitHub Desktop screenshot showing prompt to create a new branch
+You can also start by pressing the New Branch button immediately. Whichever route you take, you’ll end up with a dialog to confirm the new branch name:
+
+GitHub Desktop screenshot showing prompt to confirm a new branch name
+Your new branch will always be based on whichever branch was active when you created it. GitHub Desktop will switch to your new branch which will automatically track the branch you created it from.
+
+Creating A New Branch Using Tower
+Other GUIs are available from third-parties. Tower is free for a 30-day trial period and is available on macOS and Windows.
+
+To create a new branch from the currently checked-out branch, select Create New Branch from the main Repository menu:
+
+Tower screenshot showing Repository menu
+To create a new branch from any available branch, right-click on the branch in the left-hand sidebar and select Create New Branch from <branch name>:
+
+Tower screenshot showing branch context menu
+Note that, in either case, you can enable the branch as a tracking branch, or change the Starting Point to any branch available:
+
+Tower screenshot showing Create New Branch dialog
+Creating A New Branch Using GitKraken
+GitKraken is another popular GUI that can seem intimidating at first, but it does a good job of visually representing key Git concepts, including branches. GitKraken is free for open-source use and is available for Windows, Mac, and Linux.
+
+Make sure you’re working with the correct active branch; it’s the one highlighted in the branch listing in the left-hand sidebar:
+
+Gitkraken screenshot showing active branch
+To create a new branch, click the branch icon in the main toolbar:
+
+Gitkraken screenshot showing a new branch being created
+Enter your branch name and hit ENTER:
+
+Gitkraken screenshot showing the result of a new branch being created
+The new branch will automatically be checked out and you'll receive a notification on the right-hand side of the screen.
+
+Creating A New Branch On GitHub
+As an alternative to running a local app, you can host your repository on one of two popular Git-supporting web apps. The first, GitHub, is a very popular option with the open-source community.
+
+GitHub displays your current (active) branch in your repository view, near the top-left:
+
+GitHub screenshot showing main code view
+Click the button to display existing branches:
+
+GitHub screenshot showing branch dropdown
+Type the name of your new branch and note that you are given the option to create it from the current branch:
+
+GitHub screenshot showing new branch being created
+Once created, your new branch becomes active.
+
+Creating A New Branch On Bitbucket
+Bitbucket is another popular version control web app that offers free accounts with an unlimited number of private repositories.
+
+From any page within your repository, select the Branches item from the menu on the left:
+
+Bitbucket screenshot showing branches page
+Click the Create branch button in the top-right. Enter the new Branch name and click Create. If you need to branch from anywhere other than master, change the From branch first:
+
+Bitbucket screenshot showing Create branch dialog
+Bitbucket makes it easy to select a Type which is a prefix added to the branch name that can encourage a more organized approach to branches. It’s just a convention, rather than a built-in Git feature, but it can prove useful.
+
+Once created, Bitbucket displays a view of your new branch:
+
+Learn To Branch Out With Git
+Bitbucket screenshot showing new branch page
+Git is all about branches: they’re cheap to create and they allow multiple streams of work to coexist, ready to be merged when complete. Once you’re familiar with creating, switching, and merging branches, you’ll be well on the way to using Git to its full potential.
+
+
+SHARE
+
+TWEET
+EMAIL
+file-versioning
+The Ultimate Guide to Git---Claim Your Free Ebook!
+This guide covers everything you need to know in order to use Git properly, from explaining what is it and how it differs from other tools
+
+RELATED TOPICS
+PROGRAMMING
+ 
+GITHUB
+ 
+GITHUB DESKTOP
+ABOUT THE AUTHOR
+
+Bobby Jack (8 Articles Published)
+Bobby is a technology enthusiast who worked as a professional software developer for most of two decades. He’s passionate about video games, working as a Staff Writer at Switch Player Magazine, and is immersed in all aspects of online publishing & web development.
+
+More From Bobby Jack
+ADVERTISING
+SUBSCRIBE TO OUR NEWSLETTER
+Join our newsletter for tech tips, reviews, free ebooks, and exclusive deals!
+
+your@email.com
+SUBMIT
+ADVERTISING
+ON THE WIRE
+How to Make Your Own Emoji-Featured
+How to Make Your Own Emoji
+Resize an image on any device
+How to Resize an Image on Any Device
+outlook-any-platform
+How to Access Hotmail and Outlook Accounts on Android
+ADVERTISING
+move-android-apps-microsd-card
+How to Move Apps to an SD Card on Your Android Device
